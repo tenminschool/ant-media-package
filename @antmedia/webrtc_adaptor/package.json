@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      "@antmedia/webrtc_adaptor@2.4.2",
+      "/Users/shuvro/10MS/git/oc-dashboard-web"
+    ]
+  ],
+  "_development": true,
+  "_from": "@antmedia/webrtc_adaptor@2.4.2",
+  "_id": "@antmedia/webrtc_adaptor@2.4.2",
+  "_inBundle": false,
+  "_integrity": "sha512-jJqMQucBIGpMyz9JR0VcKo7wfimuPvJPvXHDjdtthManFLOxIK6Tvf4EWrphIQMj0DI6nv0vv0BNL+2Q1TlLsw==",
+  "_location": "/@antmedia/webrtc_adaptor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@antmedia/webrtc_adaptor@2.4.2",
+    "name": "@antmedia/webrtc_adaptor",
+    "escapedName": "@antmedia%2fwebrtc_adaptor",
+    "scope": "@antmedia",
+    "rawSpec": "2.4.2",
+    "saveSpec": null,
+    "fetchSpec": "2.4.2"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@antmedia/webrtc_adaptor/-/webrtc_adaptor-2.4.2.tgz",
+  "_spec": "2.4.2",
+  "_where": "/Users/shuvro/10MS/git/oc-dashboard-web",
+  "author": {
+    "name": "Ahmet Oğuz Mermerkaya, Tahir Ahmet Gölge, Selim Emre Toy, Burak Kekeç, Murat Uğur Eminoğlu."
+  },
+  "bugs": {
+    "url": "https://github.com/ant-media/StreamApp/issues"
+  },
+  "description": "WebRTC Adaptor for implementing a front end using Ant Media Server.",
+  "homepage": "https://github.com/ant-media/StreamApp#readme",
+  "keywords": [
+    "webrtc",
+    "Ant",
+    "Media",
+    "stream",
+    "video"
+  ],
+  "license": "ISC",
+  "main": "js/webrtc_adaptor.js",
+  "name": "@antmedia/webrtc_adaptor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ant-media/StreamApp.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.4.2"
+}
